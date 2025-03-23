@@ -1,0 +1,33 @@
+body {
+    background: linear-gradient(45deg, rgb(102, 240, 240), rgb(224, 84, 224));
+    background-color: #f8f9fa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.6);
+    width: 400px;
+    font-weight: bolder;
+    outline: none;
+}
+
+legend { /*literalmente o título da página*/
+    text-align: center;
+    font-size: 24px;
+    font-weight: bolder;
+}
+
+
+
+
+
+
+
+
+
